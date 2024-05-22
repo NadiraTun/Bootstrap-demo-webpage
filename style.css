@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+.navbar{
+    background: black;
+}
+.navbar-brand{
+    color: white;
+}
+.nav-link{
+    color: white;
+}
+.jk{
+    background: black;
+}
+.text h1{
+    padding-bottom: 30px;
+    color: white;
+}
+.text p{
+    padding-bottom: 30px;
+    color: white;
+    line-height: 35px;
+    align-items:c ;
+}
+.service{
+    background: black;
+    padding-bottom: 30px
+}
+.service h2{
+    color: white;
+}
+.nk{
+    background: black;
+}
+.headline{
+    color: white;
+    padding-bottom: 30px;
+}
+.gallery{
+    padding-bottom: 30px;
+}
